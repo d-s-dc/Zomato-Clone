@@ -224,3 +224,10 @@ header{
 .section-3-download img{
     width: 30%;
 }
+
+footer{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
